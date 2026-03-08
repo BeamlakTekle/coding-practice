@@ -1,4 +1,4 @@
-#This are probelem sets from codepath TIP 103 
+#These are probelem sets from codepath TIP 103 
 
 #Strings and Arrays
 #Problem 1: Hunny Hunt
